@@ -1,0 +1,42 @@
+{
+    "hero": {
+        "headline": "Building Custom Web Platforms That Drive Results",
+        "description": "I am a full-stack web developer based in Medellín, specializing in high-performance applications using Next.js, React, and TypeScript. I help businesses turn complex requirements into clean, intuitive digital experiences.",
+        "viewWork": "View My Work",
+        "startProject": "Start a Project"
+    },
+    "projects": {
+        "title": "Featured Work",
+        "viewProject": "View Project"
+    },
+    "projectList": [
+        {
+            "title": "Aura Bakery Platform",
+            "description": "A digital-first e-commerce platform featuring a custom checkout flow to streamline online orders and manage inventory.",
+            "techStack": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS"
+            ],
+            "link": "#",
+            "imagePath": "/aura-preview.jpg"
+        },
+        {
+            "title": "Happy Oak ERP",
+            "description": "A custom SaaS database manager designed to transition complex business transaction logs and personnel data from static spreadsheets into a dynamic dashboard.",
+            "techStack": [
+                "React",
+                "Node.js",
+                "PostgreSQL"
+            ],
+            "link": "#",
+            "imagePath": "/happy-oak-preview.jpg"
+        }
+    ],
+    "contact": {
+        "title": "Ready to start your next project?",
+        "description": "Whether you need a custom web application from scratch, a business dashboard, or an optimized e-commerce platform, I am currently available for new client partnerships. Let's talk about your business goals.",
+        "emailBtn": "Send Me an Email",
+        "githubBtn": "View My GitHub"
+    }
+}

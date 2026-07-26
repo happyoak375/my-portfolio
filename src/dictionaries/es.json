@@ -1,0 +1,42 @@
+{
+    "hero": {
+        "headline": "Creando Plataformas Web a Medida Que Generan Resultados",
+        "description": "Soy un desarrollador web full-stack radicado en Medellín, especializado en aplicaciones de alto rendimiento utilizando Next.js, React y TypeScript. Ayudo a las empresas a transformar requisitos complejos en experiencias digitales limpias e intuitivas.",
+        "viewWork": "Ver Mi Trabajo",
+        "startProject": "Iniciar un Proyecto"
+    },
+    "projects": {
+        "title": "Proyectos Destacados",
+        "viewProject": "Ver Proyecto"
+    },
+    "projectList": [
+        {
+            "title": "Plataforma Aura Bakery",
+            "description": "Una plataforma de comercio electrónico con un flujo de pago personalizado para optimizar pedidos en línea y gestionar inventario.",
+            "techStack": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS"
+            ],
+            "link": "#",
+            "imagePath": "/aura-preview.jpg"
+        },
+        {
+            "title": "Happy Oak ERP",
+            "description": "Un gestor de bases de datos SaaS a medida diseñado para migrar registros de transacciones y datos de personal desde hojas de cálculo estáticas a un panel dinámico.",
+            "techStack": [
+                "React",
+                "Node.js",
+                "PostgreSQL"
+            ],
+            "link": "#",
+            "imagePath": "/happy-oak-preview.jpg"
+        }
+    ],
+    "contact": {
+        "title": "¿Listo para comenzar tu próximo proyecto?",
+        "description": "Ya sea que necesites una aplicación web personalizada desde cero, un panel de control empresarial o una plataforma de comercio electrónico optimizada, actualmente estoy disponible para nuevas alianzas. Hablemos sobre tus objetivos de negocio.",
+        "emailBtn": "Envíame un Correo",
+        "githubBtn": "Ver Mi GitHub"
+    }
+}
