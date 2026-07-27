@@ -19,7 +19,7 @@
                 "Tailwind CSS"
             ],
             "link": "#",
-            "imagePath": "/aura-preview.jpg"
+            "imagePath": "/aura-preview.png"
         },
         {
             "title": "Happy Oak ERP",
@@ -30,7 +30,7 @@
                 "PostgreSQL"
             ],
             "link": "#",
-            "imagePath": "/happy-oak-preview.jpg"
+            "imagePath": "/happy-oak-preview.png"
         }
     ],
     "contact": {

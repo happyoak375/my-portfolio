@@ -21,7 +21,7 @@ export default async function RootLayout({
   const resolvedParams = await params;
 
   return (
-    <html lang={resolvedParams.lang} className="scroll-smooth">
+    <html lang={resolvedParams.lang} className="scroll-smooth" suppressHydrationWarning>
       <body className={`${inter.className} bg-slate-50 text-slate-900 relative`}>
 
         {/* 2. THE BUTTON MUST BE HERE */}
