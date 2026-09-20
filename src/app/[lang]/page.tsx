@@ -86,7 +86,11 @@ export default async function Home({ params }: { params: Promise<{ lang: 'en' | 
                     </span>
                   ))}
                 </div>
-                <a href={project.link} className="text-brand-primary font-bold hover:text-brand-accent transition-colors inline-flex items-center gap-2 group-hover:underline decoration-2 underline-offset-4">
+                <a
+                  href={project.link}
+                  target="blank"
+                  rel="noopener noreferrer"
+                  className="text-brand-primary font-bold hover:text-brand-accent transition-colors inline-flex items-center gap-2 group-hover:underline decoration-2 underline-offset-4">
                   {dict.projects.viewProject} <span aria-hidden="true" className="group-hover:translate-x-1 transition-transform">&rarr;</span>
                 </a>
               </div>

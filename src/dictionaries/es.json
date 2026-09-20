@@ -23,7 +23,7 @@
                 "TypeScript",
                 "Tailwind CSS"
             ],
-            "link": "#",
+            "link": "https://www.aurataller.com",
             "imagePath": "/aura-preview.png"
         },
         {
@@ -34,7 +34,7 @@
                 "Node.js",
                 "PostgreSQL"
             ],
-            "link": "#",
+            "link": "https://www.happyoakpainting.com",
             "imagePath": "/happy-oak-preview.png"
         },
         {
@@ -45,7 +45,7 @@
                 "React",
                 "Tailwind CSS"
             ],
-            "link": "#",
+            "link": "https://www.aurataller.com",
             "imagePath": "/comanda-preview.png"
         },
         {
@@ -56,7 +56,7 @@
                 "TypeScript",
                 "Node.js"
             ],
-            "link": "#",
+            "link": "https://www.aurataller.com",
             "imagePath": "/pos-preview.png"
         }
     ],
