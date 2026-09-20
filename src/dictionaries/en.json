@@ -5,6 +5,11 @@
         "viewWork": "View My Work",
         "startProject": "Start a Project"
     },
+    "about": {
+        "title": "The Human Element",
+        "description": "I am a full-stack developer based in the vibrant tech hub of Medellín, Colombia. This location serves as a strategic asset for US clients, offering overlapping time zones and cost-effective, premium engineering talent. I believe that great software isn't just about writing clean code—it is about solving real business problems with intuitive, human-centric design.",
+        "imageAlt": "Professional headshot of the developer"
+    },
     "projects": {
         "title": "Featured Work",
         "viewProject": "View Project"
@@ -12,7 +17,7 @@
     "projectList": [
         {
             "title": "Aura Bakery Platform",
-            "description": "A digital-first e-commerce platform featuring a custom checkout flow to streamline online orders and manage inventory.",
+            "description": "Increased online sales efficiency by engineering a custom e-commerce checkout flow, significantly reducing manual inventory management and streamlining customer orders.",
             "techStack": [
                 "Next.js",
                 "TypeScript",
@@ -23,14 +28,36 @@
         },
         {
             "title": "Happy Oak ERP",
-            "description": "A custom SaaS database manager designed to transition complex business transaction logs and personnel data from static spreadsheets into a dynamic dashboard.",
+            "description": "Eliminated static spreadsheets by engineering a custom SaaS dashboard, centralizing complex transaction logs and saving hours of manual data entry.",
             "techStack": [
                 "React",
                 "Node.js",
                 "PostgreSQL"
             ],
             "link": "#",
-            "imagePath": "/happyoak-preview.png"
+            "imagePath": "/happy-oak-preview.png"
+        },
+        {
+            "title": "Aurataller Comanda System",
+            "description": "Accelerated kitchen operations by implementing a real-time order management system that streamlines ticket routing and measurably reduces preparation errors.",
+            "techStack": [
+                "Next.js",
+                "React",
+                "Tailwind CSS"
+            ],
+            "link": "#",
+            "imagePath": "/comanda-preview.png"
+        },
+        {
+            "title": "Aurataller POS",
+            "description": "Optimized retail transactions with a custom Point of Sale interface, instantly synchronizing inventory and accelerating customer checkout times in fast-paced environments.",
+            "techStack": [
+                "React",
+                "TypeScript",
+                "Node.js"
+            ],
+            "link": "#",
+            "imagePath": "/pos-preview.png"
         }
     ],
     "contact": {

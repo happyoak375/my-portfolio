@@ -5,6 +5,11 @@
         "viewWork": "Ver Mi Trabajo",
         "startProject": "Iniciar un Proyecto"
     },
+    "about": {
+        "title": "El Elemento Humano",
+        "description": "Soy un desarrollador full-stack radicado en el vibrante centro tecnológico de Medellín, Colombia. Esta ubicación es un activo estratégico para clientes en EE. UU., ofreciendo zonas horarias superpuestas y talento de ingeniería premium y rentable. Creo que un gran software no se trata solo de escribir código limpio, sino de resolver problemas comerciales reales con un diseño intuitivo y centrado en el ser humano.",
+        "imageAlt": "Foto de perfil profesional del desarrollador"
+    },
     "projects": {
         "title": "Proyectos Destacados",
         "viewProject": "Ver Proyecto"
@@ -12,7 +17,7 @@
     "projectList": [
         {
             "title": "Plataforma Aura Bakery",
-            "description": "Una plataforma de comercio electrónico con un flujo de pago personalizado para optimizar pedidos en línea y gestionar inventario.",
+            "description": "Incrementé la eficiencia de las ventas en línea mediante el desarrollo de un flujo de pago personalizado, reduciendo significativamente la gestión manual del inventario y optimizando los pedidos.",
             "techStack": [
                 "Next.js",
                 "TypeScript",
@@ -23,14 +28,36 @@
         },
         {
             "title": "Happy Oak ERP",
-            "description": "Un gestor de bases de datos SaaS a medida diseñado para migrar registros de transacciones y datos de personal desde hojas de cálculo estáticas a un panel dinámico.",
+            "description": "Eliminé el uso de hojas de cálculo estáticas mediante la creación de un panel SaaS a medida, centralizando registros de transacciones complejos y ahorrando horas de ingreso manual de datos.",
             "techStack": [
                 "React",
                 "Node.js",
                 "PostgreSQL"
             ],
             "link": "#",
-            "imagePath": "/happyoak-preview.png"
+            "imagePath": "/happy-oak-preview.png"
+        },
+        {
+            "title": "Sistema de Comandas Aurataller",
+            "description": "Aceleré las operaciones de cocina al implementar un sistema de gestión de pedidos en tiempo real que optimiza el enrutamiento de tickets y reduce de manera medible los errores de preparación.",
+            "techStack": [
+                "Next.js",
+                "React",
+                "Tailwind CSS"
+            ],
+            "link": "#",
+            "imagePath": "/comanda-preview.png"
+        },
+        {
+            "title": "Aurataller POS",
+            "description": "Optimicé las transacciones comerciales con una interfaz de Punto de Venta (POS) a medida, sincronizando el inventario al instante y acelerando los tiempos de pago en entornos de ritmo rápido.",
+            "techStack": [
+                "React",
+                "TypeScript",
+                "Node.js"
+            ],
+            "link": "#",
+            "imagePath": "/pos-preview.png"
         }
     ],
     "contact": {
